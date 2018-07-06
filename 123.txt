@@ -1,9 +1,6 @@
 12345678
-<<<<<<< HEAD
- 
+
   sdf
 nbv
 nb
 b
-=======
->>>>>>> refs/heads/master
